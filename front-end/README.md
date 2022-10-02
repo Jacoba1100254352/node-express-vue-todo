@@ -1,10 +1,5 @@
-This is the front end for the Todo List app. See the tutorials for how it
-is built.
+This is the front end for the Todo List app that you developed earlier. 
+See the 
+[tutorial](https://github.com/BYU-CS-260/ReactTodo) for how it is built.
 
-You can run this code with:
-
-```
-cd front-end
-npm install
-npm run serve
-```
+Caddy will display the front end so you can focus on the back end.
